@@ -1,0 +1,24 @@
+h1 {
+  text-align: center;
+}
+
+body {
+  background-color: beige;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+
+
+}
+
+.video-wrapper {
+    margin: auto;
+    width: 450px;
+    border: 3px solid purple;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.button-wrapper {
+  margin: auto;
+  
+  padding-left: 150px;
+}
